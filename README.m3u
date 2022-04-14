@@ -1,0 +1,18 @@
+#extm3u
+
+#EXTINF:-1, Bunge y el Mar
+
+https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/playlist.m3u8
+
+#EXTINF:-1, Pinamar Playa
+
+https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/playlist.m3u8
+
+#EXTINF:-1, Villa Gesell
+
+http://cambsasyplaya.gesell.com.ar/playlist.m3u8
+
+
+#EXTINF:-1, Ushuaia
+
+https://www.skylinewebcams.com/es/webcam/argentina/tierra-del-fuego/ushuaia/ushuaia.html
